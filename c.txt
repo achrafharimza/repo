@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 HELLO THERE ALPHA Hello There it's me 
+=======
+HELLO THERE ALPHA
+HELLO FCB
+>>>>>>> 54ce2352c55c011ad55de67e1ed53d668429a419
