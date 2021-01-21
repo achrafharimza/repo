@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-Hello World 14
-=======
-Hello World 12
->>>>>>> 88940357c05cf30476378f63d62dcc6c6fef69f1
+HELLO 
