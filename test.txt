@@ -4,5 +4,10 @@ safi
 Modification 10.56
 git
 commande
+<<<<<<< HEAD
 modification a 10.44
 Hamza 11.13
+=======
+modification 11 12
+
+>>>>>>> 8a564fa03f10a054e13aa7b892233b560544be61
