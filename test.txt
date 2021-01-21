@@ -4,5 +4,14 @@ safi
 Modification 10.56
 git
 commande
+<<<<<<< HEAD
 modification LAST ONE
+=======
+<<<<<<< HEAD
+modification a 10.44
+Hamza 11.13
+=======
+modification 11 12
+>>>>>>> 77053658813990d73fe1f20a00fc0f0f1bf3e55a
 
+>>>>>>> 8a564fa03f10a054e13aa7b892233b560544be61
